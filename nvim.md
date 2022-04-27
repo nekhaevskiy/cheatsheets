@@ -27,6 +27,17 @@
 <!-- - <space-o> = show symbols in a file -->
 <!-- - <space-s> = search symbols in a workspace -->
 
+## gv.vim
+
+- `:GV` = open commit browser
+- `:GV!` = only list commits that affected the current file
+- `:GV?` = fills the location list with the revisions of the current file
+- `o` or `<cr>` (on a commit) = display the content of it
+- `o` or `<cr>` (on commits) = display the diff in the range
+- `O` = open a new tab instead
+- `.` = start command-line with `:Git [CURSOR] SHA` a la fugitive
+- `q` or `gq` = close
+
 ## vim-gitgutter
 
 - [c = go to previous hunk
