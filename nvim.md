@@ -23,6 +23,14 @@
 
 ## coc.nvim
 
-- <space-a> = show diagnostics
-- <space-o> = show symbols in a file
-- <space-s> = search symbols in a workspace
+<!-- - <space-a> = show diagnostics -->
+<!-- - <space-o> = show symbols in a file -->
+<!-- - <space-s> = search symbols in a workspace -->
+
+## vim-gitgutter
+
+- [c = go to previous hunk
+- ]c = go to next hunk
+- <leader>hp = preview hunk
+- <leader>hs = stage hunk
+- <leader>hu = undo hunk
