@@ -103,6 +103,10 @@ Ctrl+w = = resize windows equally for them to fit the screen
 - `O` = open a new tab instead
 - `.` = start command-line with `:Git [CURSOR] SHA` a la fugitive
 - `q` or `gq` = close
+    
+## netrw
+
+:Vexplore = opens netrw in a vertical split
 
 ## vim-gitgutter
 
