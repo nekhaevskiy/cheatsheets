@@ -87,11 +87,19 @@ Ctrl+w = = resize windows equally for them to fit the screen
 - q/ and q? = open the search history
 - <c-f> = open the command history while in command-line mode
 
+## ale
+
+- [a = previous lint item
+- ]a = next lint item
+
 ## coc.nvim
 
-<!-- - <space-a> = show diagnostics -->
-<!-- - <space-o> = show symbols in a file -->
-<!-- - <space-s> = search symbols in a workspace -->
+- <Tab> = trigger completion
+- <C-Space> = trigger completion
+- [g = previous diagnostic item
+- ]g = next diagnostic item
+- <C-f> = scroll forward in windows/popups
+- <C-b> = scroll backward in windows/popups
 
 ## gv.vim
 
@@ -112,6 +120,3 @@ Ctrl+w = = resize windows equally for them to fit the screen
 
 - [c = go to previous hunk
 - ]c = go to next hunk
-- <leader>hp = preview hunk
-- <leader>hs = stage hunk
-- <leader>hu = undo hunk
