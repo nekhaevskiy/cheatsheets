@@ -18,8 +18,8 @@ Prefix Alt+<arrow-key> = resize panes
 ## Windows
 
 Prefix c = create a new window
-Prefix n = rename the current window
-Alt+<number> = go to window <number>
+Prefix n = go to the next window
+Prefix p = go to the previous window
 
 ## Copy Mode
 
