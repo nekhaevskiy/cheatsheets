@@ -101,6 +101,12 @@ Ctrl+w = = resize windows equally for them to fit the screen
 - <C-f> = scroll forward in windows/popups
 - <C-b> = scroll backward in windows/popups
 
+## copilot.vim
+
+- Ctrl-] = dismiss the current suggestion
+- Alt-] = cycle to the next suggestion, if one is available
+- Alt-[ = cycle to the previous suggestion
+
 ## gv.vim
 
 - `:GV` = open commit browser
