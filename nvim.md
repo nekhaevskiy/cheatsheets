@@ -89,15 +89,19 @@ Ctrl+w = = resize windows equally for them to fit the screen
 
 ## ale
 
-- [a = previous lint item
-- ]a = next lint item
+- [a = navigate to the previous lint item
+- ]a = navigate to the next lint item
 
 ## coc.nvim
 
 - <Tab> = trigger completion
 - <C-Space> = trigger completion
-- [g = previous diagnostic item
-- ]g = next diagnostic item
+- [g = navigate to the previous diagnostic item
+- ]g = navigate to the next diagnostic item
+- gd = go to definition
+- gi = go to implementation
+- gr = go to references
+- gt = go to type definition
 - <C-f> = scroll forward in windows/popups
 - <C-b> = scroll backward in windows/popups
 
